@@ -385,7 +385,7 @@ Full documentation is available in the `/docs` folder (or see the files below):
 
 ## 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+free use License
 
 ---
 
