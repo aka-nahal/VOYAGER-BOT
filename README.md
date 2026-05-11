@@ -93,16 +93,16 @@ An Autonomous smart Luggage Bag project
 | Styling | Tailwind CSS + Shadcn UI |
 | AI | Google Gemini Live API |
 | Mobile | Capacitor (Android) |
-| Charts | Recharts |
 
 ---
 
 ## ⚡ Quick Start
 
 ### Prerequisites
-- Raspberry Pi 5 (or Pi 4 for testing)
-- Raspberry Pi Camera Module v2 or v3
+- Raspberry Pi 5 8Gb min
+- Raspberry Pi Camera Module v3
 - L298N Motor Driver + 2× DC Motors
+- GSM, GPS module 
 - Node.js 18+ and Python 3.9+
 
 ### Backend Setup (Raspberry Pi)
@@ -254,7 +254,7 @@ AVAILABLE_COLORS['pink'] = {
     'emoji': '🩷'
 }
 ```
-No other code changes needed — the system auto-detects new colors.
+No other code changes needed — the system auto-detects new colours.
 
 ---
 
