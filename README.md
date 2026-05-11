@@ -12,7 +12,7 @@ An Autonomous smart Luggage Bag project
 [![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://raspberrypi.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+
 
 **[Demo Video](#demo) · [Documentation](#documentation) · [Quick Start](#quick-start) · [Hardware Setup](#hardware-setup)**
 
