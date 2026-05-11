@@ -87,7 +87,7 @@ An Autonomous smart Luggage Bag project
 | Web Framework | FastAPI + Uvicorn |
 | WebSocket | Socket.IO |
 | Computer Vision | OpenCV 4.8+ |
-| Camera | Picamera2 |
+| Camera | Picamera3 Noir |
 | GPIO | RPi.GPIO |
 | Frontend Framework | Next.js 14 + React 18 + TypeScript |
 | Styling | Tailwind CSS + Shadcn UI |
