@@ -378,7 +378,7 @@ Full documentation is available in the `/docs` folder (or see the files below):
 
 - [FastAPI](https://fastapi.tiangolo.com) — Async Python web framework
 - [OpenCV](https://opencv.org) — Computer vision library
-- [Picamera2](https://github.com/raspberrypi/picamera2) — Raspberry Pi camera interface
+- [Picamera3 noir](https://github.com/raspberrypi/picamera2) — Raspberry Pi camera interface
 - [Shadcn UI](https://ui.shadcn.com) — React component library
 - [Google Gemini](https://ai.google.dev) — AI voice assistant
 - [Capacitor](https://capacitorjs.com) — Native Android build
