@@ -77,7 +77,7 @@ The backend uses three concurrent processing threads:
 Manages Raspberry Pi camera capture with thread-safe frame access.
 
 **Core capabilities:**
-- High-performance capture via Picamera2 library at 640×480 @ 30 FPS
+- High-performance capture via Picamera3 library at 640×480 @ 30 FPS
 - Thread-safe frame access using a locking mechanism for concurrent reads
 - Automatic reconnection on camera failures with graceful error recovery
 - Real-time FPS monitoring and reporting
