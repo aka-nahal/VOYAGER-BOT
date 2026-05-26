@@ -450,7 +450,7 @@ npx cap open android
 
 ### Camera Module
 
-Compatible cameras: Raspberry Pi Camera Module v2 (8MP) · Camera Module v3 (12MP) · Any Picamera2-compatible camera
+Compatible cameras:   Any Picamera3 module-compatible camera
 
 ### Additional Hardware (Full BOM)
 
