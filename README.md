@@ -368,9 +368,9 @@ voyagerbot/
 
 Full documentation is available in the `/docs` folder (or see the files below):
 
-- [`BACKEND_DOCUMENTATION.md`](docs/BACKEND_DOCUMENTATION.md) — Python modules, API reference, hardware wiring
--  [FEATURES_DOCUMENTATION.md](FEATURES_DOCUMENTATION.md)*  — Complete feature reference
--  [FRONTEND_DOCUMENTATION.md](FRONTEND_DOCUMENTATION.md)* — Next.js architecture, components, hooks
+-  *[BACKEND_DOCUMENTATION.md](BACKEND_DOCUMENTATION.md)* — Python modules, API reference, hardware wiring
+-  *[FEATURES_DOCUMENTATION.md](FEATURES_DOCUMENTATION.md)*  — Complete feature reference
+-  *[FRONTEND_DOCUMENTATION.md](FRONTEND_DOCUMENTATION.md)* — Next.js architecture, components, hooks
 
 
 ---
