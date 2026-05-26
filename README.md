@@ -4,7 +4,7 @@ An Autonomous smart Luggage Bag project
 
 > An advanced autonomous robot control system built on Raspberry Pi 5 — featuring real-time video streaming, AI-powered voice control, color-based object tracking, and autonomous navigation.
 
-![VoyagerBot Banner](assets/banner.png)
+![VoyagerBot Banner](assets/VoyagerBot.jpeg)
 
 <div align="center">
 
