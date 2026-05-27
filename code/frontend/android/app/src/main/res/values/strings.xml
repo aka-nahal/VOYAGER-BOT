@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Voyager Bot</string>
+    <string name="title_activity_main">Voyager Bot</string>
+    <string name="package_name">com.voyagerbot.app</string>
+    <string name="custom_url_scheme">com.voyagerbot.app</string>
+</resources>

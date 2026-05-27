@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Allow cleartext (HTTP) traffic for all IPs -->
+    <!-- This is necessary since the user can configure any Raspberry Pi IP address dynamically -->
+    <!-- The base-config allows HTTP traffic to any IP address, which is needed for local network robot control -->
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
+
+
+
+
+
